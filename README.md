@@ -22,4 +22,4 @@ Este geofeed aplica para los siguientes rangos de red:
 
 ## 🔗 Enlace al Archivo Geofeed
 
-Para acceder al archivo en formato CSV, por favor utiliza el siguiente enlace directo https://raw.githubusercontent.com/cristofn98/geofeed/refs/heads/main/ips_floriano_geofeed.csv. Este es el enlace que debe ser utilizado por sistemas automatizados para consumir los datos.
+Para acceder al archivo en formato CSV, por favor utiliza el siguiente enlace directo https://github.com/dooms879/geofeed/blob/b95c1264cef87b35b7633d205cec6838abdbbeb6/ips_Skynet_geofeed.csv. Este es el enlace que debe ser utilizado por sistemas automatizados para consumir los datos.
