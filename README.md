@@ -11,7 +11,7 @@ Las direcciones IP listadas en este geofeed están ubicadas físicamente en:
 -   **Ciudad:** Salta
 -   **Departamento:** Salta
 -   **País:** Argentina
--   **Código Postal:** 4400
+-   **Código Postal:** A4400
 
 ## 🌐 Bloques de IP Cubiertos
 
