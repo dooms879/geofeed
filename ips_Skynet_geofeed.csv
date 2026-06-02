@@ -1,4 +1,4 @@
-# Geofeed
-# Fields: network,country,region,city,postal_code
-38.236.113.0/24,AR,SAL,Salta,A4400
-2803:ec60:100::/40,AR,SAL,Salta,A4400
+# Geofeed Skynet
+# Fields: ip_prefix,country,region,city,postal_code
+38.236.113.0/24,AR,AR-A,Salta,
+2803:ec60:100::/40,AR,AR-A,Salta,
